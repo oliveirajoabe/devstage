@@ -1,6 +1,16 @@
 Criado com `npx create-next-app@latest --empty`
 
-Figma: https://www.figma.com/design/zCFvQlb8QCHTXIVlXnjQdX/NLW-Connect-%E2%80%A2-DevStage-(Community)?node-id=3-376&p=f&t=0vAdhLpVmtPYEZMg-0
+[Figma do Pojeto](<https://www.figma.com/design/zCFvQlb8QCHTXIVlXnjQdX/NLW-Connect-%E2%80%A2-DevStage-(Community)?node-id=3-376&p=f&t=0vAdhLpVmtPYEZMg-0>)
+
+-   `npm install` ou `yarn install`
+-   `npm run dev` ou `yarn dev`
+
+---
+
+node: v20.18.3 <br>
+npm: v10.8.2 <br>
+yarn: v1.22.22 <br>
+next: v15.1.7 <br>
 
 ---
 
